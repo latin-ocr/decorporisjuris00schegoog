@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decorporisjuris00schegoog_0001.png"; bbox 0 0 2850 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1122 62 1627 106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1122 62 1627 106">
+     <span class='ocr_line' id='line_1_1' title="bbox 1122 62 1627 106; baseline -0.026 1"><span class='ocrx_word' id='word_1_1' title='bbox 1122 62 1627 106; x_wconf 53' lang='lat' dir='ltr'><strong>HHHHHHHHHHHHHH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 886 4884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 886 4884">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 886 4884; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 0 0 886 4884; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1038 810 1354 882">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1038 810 1354 882">
+     <span class='ocr_line' id='line_1_3' title="bbox 1038 810 1354 882; baseline 0.006 -4"><span class='ocrx_word' id='word_1_3' title='bbox 1038 810 1354 882; x_wconf 60' lang='lat' dir='ltr'><strong>scalth-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1034 882 1342 906">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1034 882 1342 906">
+     <span class='ocr_line' id='line_1_4' title="bbox 1034 882 1342 906; baseline -0.023 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1034 882 1342 906; x_wconf 56' lang='grc' dir='ltr'><strong>μ’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 590 994 2291 1094">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 590 994 2291 1094">
+     <span class='ocr_line' id='line_1_5' title="bbox 590 994 2291 1094; baseline -0.025 1"><span class='ocrx_word' id='word_1_5' title='bbox 590 1026 694 1094; x_wconf 58' lang='lat' dir='ltr'><strong>BR</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 742 1018 1138 1090; x_wconf 72' lang='lat' dir='ltr'>CORPORIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1190 1012 1439 1082; x_wconf 69' lang='lat' dir='ltr'><strong>JUR1S</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1495 1002 1843 1074; x_wconf 71' lang='lat' dir='ltr'><strong>01v1L15</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1899 994 2191 1066; x_wconf 62' lang='lat' dir='ltr'>PR1nt1</span> <span class='ocrx_word' id='word_1_10' title='bbox 2243 1026 2291 1050; x_wconf 86' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 893 1071 1682 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 893 1071 1682 1186">
+     <span class='ocr_line' id='line_1_6' title="bbox 893 1071 1682 1186; baseline -0.024 1"><span class='ocrx_word' id='word_1_11' title='bbox 893 1118 1086 1186; x_wconf 70' lang='lat' dir='ltr'><strong>Pus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1150 1106 1639 1182; x_wconf 63' lang='lat' dir='ltr'><strong>mumma</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1677 1071 1682 1072; x_wconf 7' lang='grc' dir='ltr'><em>ἢ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
